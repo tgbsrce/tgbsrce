@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tgbsrce
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React.js
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/tu%C4%9Fba-ser%C3%A7e-b45168172/), tgbsrce@gmail.com
